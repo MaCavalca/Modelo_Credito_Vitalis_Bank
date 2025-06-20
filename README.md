@@ -42,6 +42,7 @@ A seguir, uma descrição dos principais arquivos e notebooks incluídos neste r
 ### 📊 Apresentações e Planilhas
 - `00.apresentacao_vitalis_bank.pdf`  
   👉 Apresentação institucional do projeto e da proposta do modelo
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/00_tabelas_metricas_modelos.xlsx
 
 - `00.apresentacao_modelo_credito_vitalis_bank.pdf`  
   👉 Pitch de apresentação executiva do modelo de crédito
