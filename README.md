@@ -35,7 +35,7 @@ Foram utilizadas **3 tabelas principais**:
 
 ---
 
-## 📁 Artefatos do Projeto
+## 🔖 Projeto
 
 A seguir, uma descrição dos principais arquivos e notebooks incluídos neste repositório:
 
@@ -110,6 +110,10 @@ link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/11_anal
 - `12_analise_incremental_por_score.ipynb`  
   🔢 Avaliação por camadas de scores (Blend): impacto na AUC e KS
 link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/12_analise_incremental_por_score.ipynb
+
+- 📁 `artefatos_modelo.zip`  
+  🔢 Avaliação por camadas de scores (Blend): impacto na AUC e KS
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/artefatos_modelo_zip
 ---
 
 ## 🧠 Conclusão
