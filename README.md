@@ -111,7 +111,7 @@ link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/11_anal
   🔢 Avaliação por camadas de scores (Blend): impacto na AUC e KS
 link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/12_analise_incremental_por_score.ipynb
 
-- 📁 `artefatos_modelos.zip`  
+- 📁 `13_artefatos_modelos.zip`  
   🔢 Pastas com os artefatos gerados pelos modelos
 link: [https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/artefatos_modelos_zip](https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/artefatos_modelos.zip)
 ---
