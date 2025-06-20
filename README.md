@@ -40,10 +40,10 @@ Foram utilizadas **3 tabelas principais**:
 A seguir, uma descrição dos principais arquivos e notebooks incluídos neste repositório:
 
 ### 📊 Apresentações e Planilhas
-- `00_apresentação_vitalis_bank.pptx`  
+- `00_apresentacao_vitalis_bank.pdf`  
   👉 Apresentação institucional do projeto e da proposta do modelo
 
-- `00_modelo_de_concessão_de_credito_vitalis_bank.pptx`  
+- `00_apresentacao_modelo_credito_vitalis_bank.pdf`  
   👉 Pitch de apresentação executiva do modelo de crédito
 
 - `00.metadados_modelos.xlsx`  
