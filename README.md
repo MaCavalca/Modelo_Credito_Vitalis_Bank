@@ -40,16 +40,16 @@ Foram utilizadas **3 tabelas principais**:
 A seguir, uma descrição dos principais arquivos e notebooks incluídos neste repositório:
 
 ### 📊 Apresentações e Planilhas
-- `00_apresentacao_vitalis_bank.pdf`  
+- `00.apresentacao_vitalis_bank.pdf`  
   👉 Apresentação institucional do projeto e da proposta do modelo
 
-- `00_apresentacao_modelo_credito_vitalis_bank.pdf`  
+- `00.apresentacao_modelo_credito_vitalis_bank.pdf`  
   👉 Pitch de apresentação executiva do modelo de crédito
 
-- `00.metadados_modelos.xlsx`  
+- `00_metadados_modelos.xlsx`  
   📋 Dicionário com as variáveis utilizadas em cada modelo
 
-- `00.tabelas_metricas_modelos.xlsx`  
+- `00_tabelas_metricas_modelos.xlsx`  
   📈 Comparativo das métricas (AUC, Gini, KS) por modelo e versão
 
 ---
