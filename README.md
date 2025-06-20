@@ -42,17 +42,19 @@ A seguir, uma descrição dos principais arquivos e notebooks incluídos neste r
 ### 📊 Apresentações e Planilhas
 - `00.apresentacao_vitalis_bank.pdf`  
   👉 Apresentação institucional do projeto e da proposta do modelo
-link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/00_tabelas_metricas_modelos.xlsx
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/00.apresentacao_modelo_credito_vitalis_bank.pdf
 
 - `00.apresentacao_modelo_credito_vitalis_bank.pdf`  
   👉 Pitch de apresentação executiva do modelo de crédito
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/00.apresentacao_vitalis_bank.pdf
 
 - `00_metadados_modelos.xlsx`  
   📋 Dicionário com as variáveis utilizadas em cada modelo
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/00_metadados_modelos.xlsx
 
 - `00_tabelas_metricas_modelos.xlsx`  
   📈 Comparativo das métricas (AUC, Gini, KS) por modelo e versão
-
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/00_tabelas_metricas_modelos.xlsx
 ---
 
 ### 📚 Notebooks do Pipeline de Modelagem
@@ -60,43 +62,54 @@ link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/00_tabe
 #### 🔎 Exploração e Engenharia de Atributos
 - `01_eda_base_modelagem.ipynb`  
   📊 Análise exploratória da base de modelagem
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/01_eda_base_modelagem.ipynb
 
 - `02_bureau_balance_feature_engineering.ipynb`  
   🏦 Criação de variáveis a partir da base `bureau_balance`
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/02_bureau_balance_feature_engineering.ipynb
 
 - `03_bureau_e_application_feature_engineering.ipynb`  
   🔧 Engenharia de variáveis combinando `bureau` e `application`
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/03_bureau_e_application_feature_engineering.ipynb
 
 #### ✂️ Seleção de Variáveis
 - `04_feature_selection.ipynb`  
   🧬 Seleção de variáveis com base em métricas de importância
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/04_feature_selection.ipynb
 
 - `05_edas_das_variaveis_selecionadas.ipynb`  
   📊 Análise Bivariada do Target com as variáveis selecionadas
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/05_edas_das_variaveis_selecionadas.ipynb
 
 - `06_analise_variaveis_da_edas.ipynb`  
   🔍 Análise de interação entre as variáveis
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/06_analise_variaveis_da_edas.ipynb
 
 #### ⚙️ Modelagem e Avaliação
 - `07_modelo_xgboost.ipynb`  
   🚀 Treinamento do modelo XGBoost com análise de performance
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/07_modelo_xgboost.ipynb
 
 - `08_modelo_lightgbm.ipynb`  
   🌟 Treinamento do modelo LightGBM com análise de performance - Modelo principal
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/08_modelo_lightgbm.ipynb
 
 - `09_matriz_de_migracao.ipynb`  
   📉 Matriz de migração entre os modelos XGBoost e LightGBM
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/09_matriz_de_migracao.ipynb
 
 - `10_modelo_lightGBM_sem_scores.ipynb`  
   🧪 Versão do modelo com exclusão dos scores externos
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/10_modelo_lightgbm_sem_scores.ipynb
 
 #### 🔁 Análises Incrementais
 - `11_analise_incremental_scores_como_variavel.ipynb`  
   🧠 Estudo do ganho de performance com inclusão de cada score externo
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/11_analise_incremental_scores_como_variavel.ipynb
 
 - `12_analise_incremental_por_score.ipynb`  
   🔢 Avaliação por camadas de scores (Blend): impacto na AUC e KS
-
+link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/12_analise_incremental_por_score.ipynb
 ---
 
 ## 🧠 Conclusão
