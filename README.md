@@ -113,7 +113,7 @@ link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/12_anal
 
 - 📁 `artefatos_modelos.zip`  
   🔢 Pastas com os artefatos gerados pelos modelos
-link: https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/artefatos_modelos_zip
+link: [https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/artefatos_modelos_zip](https://github.com/MaCavalca/Modelo_Credito_Vitalis_Bank/blob/main/artefatos_modelos.zip)
 ---
 
 ## 🧠 Conclusão
