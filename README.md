@@ -128,3 +128,5 @@ Este projeto demonstra como dados públicos e boas práticas de ciência de dado
 
 📬 **Entre em contato para colaborações ou sugestões!**
 
+OBS: “Este projeto foi inspirado em boas práticas aprendidas em experiências profissionais, mas todo o conteúdo, código e estrutura são originais e de autoria própria.”
+
